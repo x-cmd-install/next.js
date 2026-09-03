@@ -1,0 +1,70 @@
+about:
+  description: The React Framework
+  license: MIT
+  homepage: https://nextjs.org
+  head: 69ec884
+  archived: false
+  latestVersion: v16.4.0-canary.15
+  collectedAt: 2026-09-03T05:11:11Z
+timeline:
+  created: 2016-10-05
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 142079
+  watcher: 1648
+  fork: 31866
+  release: 3832
+  contributor: 3893
+  pullRequest: 11319
+  issue: 25315
+language:
+  JavaScript: 39229828
+  TypeScript: 25279974
+  Rust: 11149061
+  MDX: 605261
+  CSS: 577159
+  Shell: 35945
+  Python: 10400
+  SCSS: 8337
+  Dockerfile: 6423
+  C++: 3164
+  HTML: 2594
+  Batchfile: 579
+  WebAssembly: 497
+  Sass: 322
+  Pug: 49
+totalLine: 76909593
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 48
+    mergedPR: 392
+    openPR: 421
+    closedIssue: 162
+    openIssue: 90
+    commit: 535
+  last90d:
+    since: 2026-06-05
+    release: 100
+    mergedPR: 1191
+    openPR: 775
+    closedIssue: 431
+    openIssue: 168
+    commit: 1507
+  last180d:
+    since: 2026-03-07
+    release: 100
+    mergedPR: 2244
+    openPR: 1204
+    closedIssue: 752
+    openIssue: 260
+    commit: 2850
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 4497
+    openPR: 1620
+    closedIssue: 1419
+    openIssue: 438
+    commit: 5706
