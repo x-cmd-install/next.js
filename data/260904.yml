@@ -4,25 +4,25 @@ about:
     The React Framework
   license: MIT
   homepage: https://nextjs.org
-  head: 602a2ab
+  head: 00b29d6
   archived: false
   latestVersion: v16.4.0-canary.17
-  collectedAt: 2026-09-04T20:11:22Z
+  collectedAt: 2026-09-04T20:35:19Z
 timeline:
   created: 2016-10-05
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 142096
+  star: 142094
   watcher: 1647
   fork: 31872
   release: 3834
   contributor: 3893
-  pullRequest: 39832
+  pullRequest: 39833
   issue: 25323
 language:
   JavaScript: 39243128
-  TypeScript: 25286222
+  TypeScript: 25286781
   Rust: 11150561
   MDX: 605261
   CSS: 577159
@@ -36,71 +36,71 @@ language:
   WebAssembly: 497
   Sass: 322
   Pug: 49
-totalBytes: 76930641
+totalBytes: 76931200
 recent:
   last30d:
     since: 2026-08-05
     release: 48
-    mergedPR: 384
+    mergedPR: 385
     openPR: 419
     closedIssue: 159
     openIssue: 89
-    commit: 551
+    commit: 552
   last60d:
     since: 2026-07-06
     release: 89
-    mergedPR: 815
+    mergedPR: 816
     openPR: 650
     closedIssue: 326
     openIssue: 146
-    commit: 1082
+    commit: 1083
   last90d:
     since: 2026-06-06
     release: 100
-    mergedPR: 1200
+    mergedPR: 1201
     openPR: 794
     closedIssue: 434
     openIssue: 172
-    commit: 1523
+    commit: 1524
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 2259
+    mergedPR: 2260
     openPR: 1218
     closedIssue: 757
     openIssue: 261
-    commit: 2866
+    commit: 2867
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 4500
+    mergedPR: 4501
     openPR: 1639
     closedIssue: 1428
     openIssue: 429
-    commit: 5722
+    commit: 5723
   last720d:
     since: 2024-09-14
     release: 100
-    mergedPR: 10115
+    mergedPR: 10116
     openPR: 2098
     closedIssue: 3454
     openIssue: 692
-    commit: 10877
+    commit: 10878
 total:
   release: 3834
-  mergedPR: 28481
+  mergedPR: 28482
   openPR: 2281
   closedIssue: 24328
   openIssue: 995
-  commit: 35531
+  commit: 35532
 ---
 path: /home/runner/.x-repo/github.com/vercel/next.js
-collectedAt: 2026-09-04T20:12:58Z
+collectedAt: 2026-09-04T20:37:03Z
 loc:
   TypeScript:
-    code: 529346
-    comments: 58995
-    blanks: 65983
+    code: 529375
+    comments: 58990
+    blanks: 65985
     files: 5199
   Rust:
     code: 254326
@@ -243,9 +243,9 @@ loc:
     blanks: 251
     files: 254
 total:
-  code: 1340505
-  comments: 154687
-  blanks: 154094
+  code: 1340534
+  comments: 154682
+  blanks: 154096
   files: 27478
 ---
 date: "2026-08-24"
