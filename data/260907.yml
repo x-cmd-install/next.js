@@ -2,26 +2,26 @@ about:
   description: "The React Framework"
   license: MIT
   homepage: https://nextjs.org
-  head: 4fed8ea
+  head: e9c1609
   archived: false
   latestVersion: "v16.4.0-canary.19"
-  collectedAt: 2026-09-07T04:34:40Z
+  collectedAt: 2026-09-07T19:56:33Z
 timeline:
   created: 2016-10-05
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 142161
-  watcher: 1647
-  fork: 31889
+  star: 142191
+  watcher: 1646
+  fork: 31895
   release: 3836
   contributor: 3894
-  pullRequest: 39853
-  issue: 25332
+  pullRequest: 39863
+  issue: 25334
 language:
   JavaScript: 39243527
-  TypeScript: 25292526
-  Rust: 11150594
+  TypeScript: 25292805
+  Rust: 11155751
   MDX: 605261
   CSS: 577159
   Shell: 35945
@@ -34,66 +34,66 @@ language:
   WebAssembly: 497
   Sass: 322
   Pug: 49
-totalBytes: 76937461
+totalBytes: 76942897
 recent:
   last30d:
     since: 2026-08-08
     release: 44
-    mergedPR: 343
-    openPR: 379
-    closedIssue: 144
+    mergedPR: 347
+    openPR: 382
+    closedIssue: 146
     openIssue: 84
-    commit: 412
+    commit: 416
   last60d:
     since: 2026-07-09
     release: 88
-    mergedPR: 770
-    openPR: 640
-    closedIssue: 316
+    mergedPR: 774
+    openPR: 643
+    closedIssue: 318
     openIssue: 145
-    commit: 999
+    commit: 1003
   last90d:
     since: 2026-06-09
     release: 100
-    mergedPR: 1147
-    openPR: 778
-    closedIssue: 432
+    mergedPR: 1151
+    openPR: 781
+    closedIssue: 434
     openIssue: 176
-    commit: 1444
+    commit: 1448
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 2219
-    openPR: 1206
-    closedIssue: 754
+    mergedPR: 2223
+    openPR: 1209
+    closedIssue: 756
     openIssue: 266
-    commit: 2727
+    commit: 2731
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 4462
-    openPR: 1636
-    closedIssue: 1418
-    openIssue: 432
-    commit: 5597
+    mergedPR: 4466
+    openPR: 1639
+    closedIssue: 1421
+    openIssue: 431
+    commit: 5601
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 10093
-    openPR: 2096
-    closedIssue: 3438
-    openIssue: 696
-    commit: 10845
+    mergedPR: 10097
+    openPR: 2099
+    closedIssue: 3441
+    openIssue: 695
+    commit: 10848
 total:
   release: 3836
-  mergedPR: 28484
-  openPR: 2281
-  closedIssue: 24333
-  openIssue: 999
-  commit: 35536
+  mergedPR: 28488
+  openPR: 2284
+  closedIssue: 24336
+  openIssue: 998
+  commit: 35539
 ---
 path: /home/runner/.x-repo/github.com/vercel/next.js
-collectedAt: 2026-09-07T04:38:13Z
+collectedAt: 2026-09-07T19:59:58Z
 loc:
   TypeScript:
     code: 529503
@@ -101,19 +101,19 @@ loc:
     blanks: 66001
     files: 5200
   Rust:
-    code: 254326
-    comments: 13188
-    blanks: 28627
-    files: 1038
+    code: 254396
+    comments: 13208
+    blanks: 28644
+    files: 1039
   JavaScript:
     code: 179478
     comments: 14375
     blanks: 17507
     files: 10728
   Tsx:
-    code: 156760
-    comments: 9056
-    blanks: 16102
+    code: 156764
+    comments: 9058
+    blanks: 16103
     files: 6841
   Json:
     code: 115333
@@ -141,7 +141,7 @@ loc:
     blanks: 5
     files: 211
   Toml:
-    code: 2600
+    code: 2601
     comments: 159
     blanks: 398
     files: 74
@@ -241,10 +241,10 @@ loc:
     blanks: 251
     files: 254
 total:
-  code: 1340715
-  comments: 154697
-  blanks: 154122
-  files: 27483
+  code: 1340790
+  comments: 154730
+  blanks: 154142
+  files: 27484
 ---
 date: "2026-08-24"
 repo:
@@ -518,7 +518,7 @@ checks:
       - 'Warn: 0 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:19+00:00
+  collectedAt: 2026-09-07T20:00:03+00:00
   platform:
     darwin/arm64:
       name:  null
