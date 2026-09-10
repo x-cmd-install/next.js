@@ -2,33 +2,33 @@ about:
   description: "The React Framework"
   license: MIT
   homepage: https://nextjs.org
-  head: 334052f
+  head: c115657
   archived: false
   latestVersion: "v16.4.0-canary.25"
   latestRelease: "v15.5.25"
   latestPrerelease: "v16.4.0-canary.25"
-  collectedAt: 2026-09-10T04:37:28Z
+  collectedAt: 2026-09-10T16:05:40Z
 timeline:
   created: 2016-10-05
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-09
   lastRelease: 2026-08-31
   lastPrerelease: 2026-09-09
 popularity:
-  star: 142217
-  watcher: 1637
-  fork: 31894
+  star: 142218
+  watcher: 1635
+  fork: 31901
   release: 3842
   contributor: 3895
-  pullRequest: 39974
-  issue: 25350
+  pullRequest: 39992
+  issue: 25358
 language:
-  JavaScript: 39270859
-  TypeScript: 25518052
-  Rust: 11223649
+  JavaScript: 39279887
+  TypeScript: 25565463
+  Rust: 11259894
   MDX: 605261
   CSS: 577393
-  Shell: 40901
+  Shell: 40477
   Python: 10400
   SCSS: 8421
   Dockerfile: 7240
@@ -38,96 +38,96 @@ language:
   WebAssembly: 497
   Sass: 322
   Pug: 49
-totalBytes: 77269381
+totalBytes: 77361641
 recent:
   last30d:
     since: 2026-08-11
     release: 47
-    mergedPR: 360
-    openPR: 396
-    closedIssue: 124
-    openIssue: 96
-    commit: 485
+    mergedPR: 370
+    openPR: 399
+    closedIssue: 129
+    openIssue: 99
+    commit: 499
   last60d:
     since: 2026-07-12
     release: 92
-    mergedPR: 808
-    openPR: 682
-    closedIssue: 311
-    openIssue: 157
-    commit: 1072
+    mergedPR: 819
+    openPR: 684
+    closedIssue: 316
+    openIssue: 160
+    commit: 1086
   last90d:
     since: 2026-06-12
     release: 100
-    mergedPR: 1157
-    openPR: 812
-    closedIssue: 407
-    openIssue: 184
-    commit: 1517
+    mergedPR: 1168
+    openPR: 814
+    closedIssue: 412
+    openIssue: 187
+    commit: 1531
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 2212
-    openPR: 1241
-    closedIssue: 750
-    openIssue: 273
-    commit: 2800
+    mergedPR: 2223
+    openPR: 1243
+    closedIssue: 755
+    openIssue: 276
+    commit: 2814
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 4503
-    openPR: 1678
-    closedIssue: 1414
-    openIssue: 442
-    commit: 5670
+    mergedPR: 4514
+    openPR: 1680
+    closedIssue: 1419
+    openIssue: 445
+    commit: 5684
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 10112
-    openPR: 2136
-    closedIssue: 3429
-    openIssue: 706
-    commit: 10870
+    mergedPR: 10123
+    openPR: 2138
+    closedIssue: 3434
+    openIssue: 709
+    commit: 10880
 total:
   release: 3842
-  mergedPR: 28544
-  openPR: 2324
-  closedIssue: 24341
-  openIssue: 1009
-  commit: 35600
+  mergedPR: 28555
+  openPR: 2326
+  closedIssue: 24346
+  openIssue: 1012
+  commit: 35610
 ---
 path: /home/runner/.x-repo/github.com/vercel/next.js
-collectedAt: 2026-09-10T04:41:17Z
+collectedAt: 2026-09-10T16:09:17Z
 loc:
   TypeScript:
-    code: 532871
-    comments: 59755
-    blanks: 66349
-    files: 5240
+    code: 533907
+    comments: 59827
+    blanks: 66457
+    files: 5249
   Rust:
-    code: 255752
-    comments: 13318
-    blanks: 28812
+    code: 256519
+    comments: 13353
+    blanks: 28880
     files: 1042
   JavaScript:
-    code: 179867
-    comments: 14500
-    blanks: 17580
-    files: 10747
+    code: 180059
+    comments: 14551
+    blanks: 17625
+    files: 10764
   Tsx:
-    code: 158331
-    comments: 9111
-    blanks: 16277
-    files: 6922
+    code: 158497
+    comments: 9123
+    blanks: 16286
+    files: 6946
   Json:
-    code: 115593
+    code: 115608
     comments: 0
     blanks: 22
-    files: 1383
+    files: 1386
   Yaml:
-    code: 61347
+    code: 61323
     comments: 36
-    blanks: 9249
+    blanks: 9246
     files: 42
   Css:
     code: 26959
@@ -155,10 +155,10 @@ loc:
     blanks: 397
     files: 74
   Sh:
-    code: 732
-    comments: 219
-    blanks: 157
-    files: 20
+    code: 718
+    comments: 218
+    blanks: 154
+    files: 19
   Dockerfile:
     code: 337
     comments: 192
@@ -241,14 +241,14 @@ loc:
     files: 472
   Text:
     code: 0
-    comments: 1369
-    blanks: 251
-    files: 256
+    comments: 1447
+    blanks: 256
+    files: 261
 total:
-  code: 1347944
-  comments: 156072
-  blanks: 154985
-  files: 27669
+  code: 1350082
+  comments: 156369
+  blanks: 155234
+  files: 27726
 ---
 date: "2026-09-07"
 repo:
