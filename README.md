@@ -12,44 +12,17 @@ The React Framework
 x install next.js
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/vercel/next.js>
-- **Homepage**: <https://nextjs.org>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v16.4.0-canary.25` (2026-08-31)
-- **Last commit**: 2026-09-10
-
-## Popularity
-
-- **Stars**: 142,218 · **Forks**: 31,901 · **Open issues**: 25,358 · **Contributors**: 3,895
-
-## Totals (cumulative)
-
-- **Releases**: 3842 · **Merged PRs**: 28555 · **Open PRs**: 2326 · **Closed issues**: 24346 · **Open issues**: 1012 · **Commits**: 35610
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 47 | 370 | 399 | 129 | 99 | 499 |
-| 90d | 2026-06-12 | 100 | 1168 | 814 | 412 | 187 | 1531 |
-| 360d | 2025-09-15 | 100 | 4514 | 1680 | 1419 | 445 | 5684 |
-
-## Code size
-
-Total: **1,347,242** lines of code across **25387** files in the top 5 languages.
+Total: **1,350,624** lines of code across **25410** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 533,907 | 59,827 | 66,457 | 5249 |
+| TypeScript | 534,852 | 60,047 | 66,556 | 5259 |
 | Rust | 256,519 | 13,353 | 28,880 | 1042 |
-| JavaScript | 180,059 | 14,551 | 17,625 | 10764 |
-| Tsx | 158,497 | 9,123 | 16,286 | 6946 |
-| Json | 115,608 | 0 | 22 | 1386 |
+| JavaScript | 180,066 | 14,553 | 17,626 | 10764 |
+| Tsx | 160,877 | 9,531 | 16,402 | 6957 |
+| Json | 115,658 | 0 | 22 | 1388 |
 
 ## OpenSSF Scorecard
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
 
+## Source
+
+- **Upstream**: <https://github.com/vercel/next.js>
+- **Homepage**: <https://nextjs.org>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v16.4.0-canary.26` (2026-08-31)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 142,224 · **Forks**: 31,905 · **Open issues**: 25,359 · **Contributors**: 3,896
+
+## Totals (cumulative)
+
+- **Releases**: 3843 · **Merged PRs**: 28564 · **Open PRs**: 2328 · **Closed issues**: 24349 · **Open issues**: 1010 · **Commits**: 35619
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 46 | 353 | 391 | 126 | 95 | 512 |
+| last60d | 2026-07-13 | 92 | 819 | 682 | 316 | 157 | 1099 |
+| 90d | 2026-06-13 | 100 | 1169 | 818 | 413 | 185 | 1544 |
+| last180d | 2026-03-15 | 100 | 2227 | 1240 | 754 | 273 | 2827 |
+| 360d | 2025-09-16 | 100 | 4497 | 1682 | 1421 | 440 | 5697 |
+| last720d | 2024-09-21 | 100 | 10130 | 2140 | 3436 | 707 | 10875 |
+
 ## Improve this data
 
 Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `next.js` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:09:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:27:38Z._
