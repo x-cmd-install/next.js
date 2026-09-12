@@ -43,11 +43,11 @@
   "body": "The following bug fixes have been backported. It does not include all pending features/changes on canary.\r\n\r\n- next/image: Skip 0-byte entries when initializing disk LRU cache (#98185)\r\n- next/image: Reject empty images when reading/writing to the disk cache (#98186)\r\n- Emit whole-app server NFTs when `output: 'standalone'` is used with an adapter (#98167)\r\n- Add CSP nonce to script tags of loading and template files (#98403)\r\n- Fix `use cache` prerender signal retention (#98448)",
   "reactions": {
     "url": "https://api.github.com/repos/vercel/next.js/releases/387278550/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 3,
     "-1": 0,
     "laugh": 0,
-    "hooray": 0,
+    "hooray": 1,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
