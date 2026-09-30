@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/vercel/next.js/releases/393779696",
-  "assets_url": "https://api.github.com/repos/vercel/next.js/releases/393779696/assets",
-  "upload_url": "https://uploads.github.com/repos/vercel/next.js/releases/393779696/assets{?name,label}",
-  "html_url": "https://github.com/vercel/next.js/releases/tag/v16.3.6",
-  "id": 393779696,
+  "url": "https://api.github.com/repos/vercel/next.js/releases/398969605",
+  "assets_url": "https://api.github.com/repos/vercel/next.js/releases/398969605/assets",
+  "upload_url": "https://uploads.github.com/repos/vercel/next.js/releases/398969605/assets{?name,label}",
+  "html_url": "https://github.com/vercel/next.js/releases/tag/v16.3.7",
+  "id": 398969605,
   "author": {
     "login": "eps1lon",
     "id": 12292047,
@@ -25,32 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBC3Cis4XeJnw",
-  "tag_name": "v16.3.6",
+  "node_id": "RE_kwDOBC3Cis4Xx8sF",
+  "tag_name": "v16.3.7",
   "target_commitish": "canary",
-  "name": "v16.3.6",
+  "name": "v16.3.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-22T15:41:35Z",
-  "updated_at": "2026-09-22T17:15:10Z",
-  "published_at": "2026-09-22T17:15:10Z",
+  "created_at": "2026-09-29T08:18:23Z",
+  "updated_at": "2026-09-29T08:54:51Z",
+  "published_at": "2026-09-29T08:54:51Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/vercel/next.js/tarball/v16.3.6",
-  "zipball_url": "https://api.github.com/repos/vercel/next.js/zipball/v16.3.6",
-  "body": "This release contains a security fix for [GHSA-vcvr-r3jv-pc5j: Remote Code Execution in next/og ImageResponse](https://github.com/vercel/next.js/security/advisories/GHSA-vcvr-r3jv-pc5j)",
+  "tarball_url": "https://api.github.com/repos/vercel/next.js/tarball/v16.3.7",
+  "zipball_url": "https://api.github.com/repos/vercel/next.js/zipball/v16.3.7",
+  "body": "> [!NOTE]\r\n> This release is backporting bug fixes. It does **not** include all pending features/changes on canary.\r\n\r\n### Core Changes\r\n\r\n- turbo-tasks-backend: fix strongly consistent read hanging on a canceled task (#98931)\r\n\r\n### Credits\r\n\r\nHuge thanks to @lukesandberg for helping!\r\n",
   "reactions": {
-    "url": "https://api.github.com/repos/vercel/next.js/releases/393779696/reactions",
-    "total_count": 16,
-    "+1": 12,
+    "url": "https://api.github.com/repos/vercel/next.js/releases/398969605/reactions",
+    "total_count": 3,
+    "+1": 0,
     "-1": 0,
-    "laugh": 0,
+    "laugh": 1,
     "hooray": 2,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
-    "eyes": 2
-  }
+    "eyes": 0
+  },
+  "mentions_count": 1
 }

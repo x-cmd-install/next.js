@@ -491,4 +491,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":398969605,"author":{"login":"eps1lon","id":12292047,"node_id":"MDQ6VXNlcjEyMjkyMDQ3","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBC3Cis4Xx8sF","tag_name":"v16.3.7","target_commitish":"canary","name":"v16.3.7","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-29T08:18:23Z","updated_at":"2026-09-29T08:54:51Z","published_at":"2026-09-29T08:54:51Z","assets":[],"body":"> [!NOTE]\r\n> This release is backporting bug fixes. It does **not** include all pending features/changes on canary.\r\n\r\n### Core Changes\r\n\r\n- turbo-tasks-backend: fix strongly consistent read hanging on a canceled task (#98931)\r\n\r\n### Credits\r\n\r\nHuge thanks to @lukesandberg for helping!\r\n","reactions":{"total_count":3,"+1":0,"-1":0,"laugh":1,"hooray":2,"confused":0,"heart":0,"rocket":0,"eyes":0},"mentions_count":1}
