@@ -43,7 +43,7 @@
   "body": "This release contains security fixes for the following advisories:\r\n\r\nHigh:\r\n- [Server-Side Request Forgery in Image Optimization](https://github.com/vercel/next.js/security/advisories/GHSA-cjq9-62q9-8jv4)\r\n\r\nMedium:\r\n- [Information disclosure in Next.js App Router metadata image routes via dynamicParams bypass](https://github.com/vercel/next.js/security/advisories/GHSA-f87g-xv8r-7p7x)\r\n- [Cache poisoning of SSG and ISR pages in self-hosted Next.js applications](https://github.com/vercel/next.js/security/advisories/GHSA-4jqv-mc3x-m676)\r\n- [Cache poisoning in Next.js SSG/ISR rendering leads to cross-user content substitution and persistent denial of service](https://github.com/vercel/next.js/security/advisories/GHSA-mcj8-r9mp-w47p)\r\n- [Pending `use cache` fill can leak Draft Mode content into regular responses and persisted pages](https://github.com/vercel/next.js/security/advisories/GHSA-3w37-wq28-93x7)\r\n- [Cache leak across root param values in nested 'use cache' functions](https://github.com/vercel/next.js/security/advisories/GHSA-h694-7cp9-m8p3)\r\n\r\nLow:\r\n- [Information disclosure in the Next.js development server's Model Context Protocol endpoint](https://github.com/vercel/next.js/security/advisories/GHSA-39w2-rjm5-chcv)",
   "reactions": {
     "url": "https://api.github.com/repos/vercel/next.js/releases/399923971/reactions",
-    "total_count": 14,
+    "total_count": 15,
     "+1": 2,
     "-1": 0,
     "laugh": 0,
@@ -51,6 +51,6 @@
     "confused": 0,
     "heart": 0,
     "rocket": 0,
-    "eyes": 5
+    "eyes": 6
   }
 }
