@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v16.5.0-canary.16` (2026-10-15)
-- **Last commit**: 2026-10-16
+- **Latest**: `v16.5.0-canary.17` (2026-10-15)
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
-- **Stars**: 143,043 · **Forks**: 35,152 · **Open issues**: 25,616 · **Contributors**: 3,911
+- **Stars**: 143,060 · **Forks**: 35,150 · **Open issues**: 25,617 · **Contributors**: 3,911
 
 ## Totals (cumulative)
 
-- **Releases**: 3907 · **Merged PRs**: 29222 · **Open PRs**: 2572 · **Closed issues**: 24507 · **Open issues**: 1109 · **Commits**: 36304
+- **Releases**: 3908 · **Merged PRs**: 29222 · **Open PRs**: 2586 · **Closed issues**: 24507 · **Open issues**: 1110 · **Commits**: 36305
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 55 | 473 | 391 | 98 | 119 | 753 |
-| last60d | 2026-08-18 | 100 | 912 | 689 | 226 | 204 | 1322 |
-| 90d | 2026-07-19 | 100 | 1403 | 976 | 437 | 271 | 1930 |
-| last180d | 2026-04-20 | 100 | 2443 | 1339 | 731 | 333 | 3073 |
-| 360d | 2025-10-22 | 100 | 4525 | 1895 | 1437 | 518 | 5796 |
-| last720d | 2024-10-27 | 100 | 10041 | 2375 | 3328 | 783 | 10825 |
+| 30d | 2026-09-18 | 55 | 447 | 391 | 98 | 120 | 565 |
+| last60d | 2026-08-19 | 99 | 883 | 689 | 219 | 200 | 1145 |
+| 90d | 2026-07-20 | 100 | 1382 | 980 | 436 | 272 | 1773 |
+| last180d | 2026-04-21 | 100 | 2426 | 1350 | 728 | 332 | 3015 |
+| 360d | 2025-10-23 | 100 | 4520 | 1908 | 1429 | 519 | 5707 |
+| last720d | 2024-10-28 | 100 | 10024 | 2389 | 3314 | 784 | 10823 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:22:16Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:26:14Z._
