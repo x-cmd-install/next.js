@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 143,060 · **Forks**: 35,150 · **Open issues**: 25,617 · **Contributors**: 3,911
+- **Stars**: 143,079 · **Forks**: 35,211 · **Open issues**: 25,622 · **Contributors**: 3,911
 
 ## Totals (cumulative)
 
-- **Releases**: 3908 · **Merged PRs**: 29222 · **Open PRs**: 2586 · **Closed issues**: 24507 · **Open issues**: 1110 · **Commits**: 36305
+- **Releases**: 3908 · **Merged PRs**: 29222 · **Open PRs**: 2590 · **Closed issues**: 24509 · **Open issues**: 1113 · **Commits**: 36305
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 55 | 447 | 391 | 98 | 120 | 565 |
-| last60d | 2026-08-19 | 99 | 883 | 689 | 219 | 200 | 1145 |
-| 90d | 2026-07-20 | 100 | 1382 | 980 | 436 | 272 | 1773 |
-| last180d | 2026-04-21 | 100 | 2426 | 1350 | 728 | 332 | 3015 |
-| 360d | 2025-10-23 | 100 | 4520 | 1908 | 1429 | 519 | 5707 |
-| last720d | 2024-10-28 | 100 | 10024 | 2389 | 3314 | 784 | 10823 |
+| 30d | 2026-09-19 | 54 | 437 | 386 | 99 | 122 | 565 |
+| last60d | 2026-08-20 | 98 | 863 | 679 | 212 | 202 | 1145 |
+| 90d | 2026-07-21 | 100 | 1349 | 981 | 435 | 275 | 1773 |
+| last180d | 2026-04-22 | 100 | 2420 | 1349 | 725 | 335 | 3015 |
+| 360d | 2025-10-24 | 100 | 4513 | 1907 | 1425 | 520 | 5707 |
+| last720d | 2024-10-29 | 100 | 10011 | 2393 | 3300 | 786 | 10809 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:26:14Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:41:02Z._
