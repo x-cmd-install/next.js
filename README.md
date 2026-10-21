@@ -14,15 +14,15 @@ x install next.js
 
 ## Code insight
 
-Total: **1,433,736** lines of code across **27426** files in the top 5 languages.
+Total: **1,435,620** lines of code across **27446** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 581,367 | 64,094 | 70,497 | 5678 |
-| Rust | 270,883 | 14,180 | 30,083 | 1058 |
-| JavaScript | 187,429 | 16,435 | 18,408 | 11305 |
-| Tsx | 175,023 | 9,736 | 18,080 | 7907 |
-| Json | 116,962 | 0 | 22 | 1478 |
+| TypeScript | 581,986 | 64,148 | 70,561 | 5681 |
+| Rust | 271,922 | 14,240 | 30,167 | 1059 |
+| JavaScript | 187,480 | 16,452 | 18,415 | 11312 |
+| Tsx | 175,191 | 9,744 | 18,098 | 7915 |
+| Json | 116,969 | 0 | 22 | 1479 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v16.5.0-canary.19` (2026-10-15)
+- **Latest**: `v16.5.0-canary.21` (2026-10-15)
 - **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 143,098 · **Forks**: 35,278 · **Open issues**: 25,628 · **Contributors**: 3,912
+- **Stars**: 143,098 · **Forks**: 34,800 · **Open issues**: 25,638 · **Contributors**: 3,913
 
 ## Totals (cumulative)
 
-- **Releases**: 3910 · **Merged PRs**: 29251 · **Open PRs**: 2592 · **Closed issues**: 24512 · **Open issues**: 1116 · **Commits**: 36331
+- **Releases**: 3912 · **Merged PRs**: 29280 · **Open PRs**: 2607 · **Closed issues**: 24518 · **Open issues**: 1120 · **Commits**: 36358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 55 | 463 | 385 | 95 | 127 | 606 |
-| last60d | 2026-08-21 | 99 | 860 | 671 | 208 | 205 | 1186 |
-| 90d | 2026-07-22 | 100 | 1365 | 975 | 426 | 278 | 1814 |
-| last180d | 2026-04-23 | 100 | 2447 | 1350 | 720 | 338 | 3056 |
-| 360d | 2025-10-25 | 100 | 4537 | 1910 | 1422 | 524 | 5748 |
-| last720d | 2024-10-30 | 100 | 10011 | 2394 | 3290 | 790 | 10785 |
+| 30d | 2026-09-21 | 57 | 473 | 393 | 99 | 131 | 638 |
+| last60d | 2026-08-22 | 98 | 882 | 681 | 211 | 210 | 1218 |
+| 90d | 2026-07-23 | 100 | 1380 | 987 | 426 | 280 | 1846 |
+| last180d | 2026-04-24 | 100 | 2443 | 1363 | 722 | 341 | 3088 |
+| 360d | 2025-10-26 | 100 | 4566 | 1925 | 1421 | 527 | 5780 |
+| last720d | 2024-10-31 | 100 | 10015 | 2409 | 3286 | 793 | 10772 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:48:55Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:42:01Z._
