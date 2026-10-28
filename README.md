@@ -14,25 +14,25 @@ x install next.js
 
 ## Code insight
 
-Total: **1,451,479** lines of code across **27649** files in the top 5 languages.
+Total: **1,458,937** lines of code across **27744** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 588,703 | 64,900 | 71,127 | 5762 |
-| Rust | 276,639 | 14,458 | 30,584 | 1067 |
-| JavaScript | 188,733 | 16,685 | 18,540 | 11357 |
-| Tsx | 176,179 | 9,767 | 18,221 | 7982 |
-| Json | 119,143 | 0 | 22 | 1481 |
+| TypeScript | 590,070 | 64,986 | 71,313 | 5803 |
+| Rust | 280,873 | 14,703 | 31,019 | 1079 |
+| JavaScript | 188,799 | 16,693 | 18,544 | 11364 |
+| Tsx | 177,090 | 9,774 | 18,309 | 8011 |
+| Json | 119,319 | 0 | 22 | 1487 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v16.5.0-canary.28` (2026-10-23)
+- **Latest**: `v16.5.0-canary.29` (2026-10-23)
 - **Last commit**: 2026-10-27
 
 ## Popularity
 
-- **Stars**: 143,310 · **Forks**: 34,132 · **Open issues**: 25,673 · **Contributors**: 3,914
+- **Stars**: 143,175 · **Forks**: 34,141 · **Open issues**: 25,676 · **Contributors**: 3,918
 
 ## Totals (cumulative)
 
-- **Releases**: 3919 · **Merged PRs**: 29384 · **Open PRs**: 2625 · **Closed issues**: 24547 · **Open issues**: 1126 · **Commits**: 36461
+- **Releases**: 3920 · **Merged PRs**: 29416 · **Open PRs**: 2621 · **Closed issues**: 24557 · **Open issues**: 1119 · **Commits**: 36494
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 49 | 465 | 369 | 98 | 117 | 619 |
-| last60d | 2026-08-28 | 95 | 868 | 667 | 200 | 195 | 1238 |
-| 90d | 2026-07-29 | 100 | 1391 | 989 | 413 | 275 | 1866 |
-| last180d | 2026-04-30 | 100 | 2484 | 1373 | 728 | 348 | 3165 |
-| 360d | 2025-11-01 | 100 | 4567 | 1933 | 1403 | 521 | 5819 |
-| last720d | 2024-11-06 | 100 | 9990 | 2426 | 3262 | 795 | 10769 |
+| 30d | 2026-09-28 | 49 | 478 | 359 | 95 | 112 | 676 |
+| last60d | 2026-08-29 | 94 | 899 | 661 | 202 | 192 | 1295 |
+| 90d | 2026-07-30 | 100 | 1405 | 982 | 411 | 274 | 1923 |
+| last180d | 2026-05-01 | 100 | 2512 | 1367 | 729 | 347 | 3222 |
+| 360d | 2025-11-02 | 100 | 4593 | 1926 | 1403 | 520 | 5876 |
+| last720d | 2024-11-07 | 100 | 9996 | 2421 | 3263 | 789 | 10759 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:58:44Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:42:37Z._
