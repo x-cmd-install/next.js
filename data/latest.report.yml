@@ -2,30 +2,30 @@ about:
   description: "The React Framework"
   license: MIT
   homepage: https://nextjs.org
-  head: 7fd2d0a
+  head: fcd3fde
   archived: false
-  latestVersion: "v16.5.0-canary.30"
+  latestVersion: "v16.5.0-canary.32"
   latestRelease: "v16.4.3"
-  latestPrerelease: "v16.5.0-canary.30"
-  collectedAt: 2026-10-29T05:44:17Z
+  latestPrerelease: "v16.5.0-canary.32"
+  collectedAt: 2026-10-30T05:37:56Z
 timeline:
   created: 2016-10-05
-  lastCommit: 2026-10-28
-  lastVersion: 2026-10-28
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-29
   lastRelease: 2026-10-23
-  lastPrerelease: 2026-10-28
+  lastPrerelease: 2026-10-29
 popularity:
-  star: 143190
+  star: 143196
   watcher: 1619
-  fork: 34155
-  release: 3921
+  fork: 34161
+  release: 3923
   contributor: 3918
-  pullRequest: 41623
-  issue: 25687
+  pullRequest: 41673
+  issue: 25693
 language:
-  JavaScript: 39861462
-  TypeScript: 28476231
-  Rust: 12514901
+  JavaScript: 39864359
+  TypeScript: 28504705
+  Rust: 12520018
   MDX: 653029
   CSS: 578316
   Shell: 43403
@@ -38,92 +38,92 @@ language:
   WebAssembly: 497
   Sass: 322
   Pug: 49
-totalBytes: 82161746
+totalBytes: 82198234
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 49
-    mergedPR: 473
-    openPR: 371
-    closedIssue: 89
-    openIssue: 114
-    commit: 706
+    mergedPR: 463
+    openPR: 386
+    closedIssue: 86
+    openIssue: 116
+    commit: 732
   last60d:
-    since: 2026-08-30
-    release: 94
-    mergedPR: 917
-    openPR: 673
-    closedIssue: 204
-    openIssue: 195
-    commit: 1325
+    since: 2026-08-31
+    release: 96
+    mergedPR: 927
+    openPR: 680
+    closedIssue: 201
+    openIssue: 198
+    commit: 1351
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 100
-    mergedPR: 1410
-    openPR: 994
-    closedIssue: 411
-    openIssue: 277
-    commit: 1953
+    mergedPR: 1424
+    openPR: 1015
+    closedIssue: 410
+    openIssue: 281
+    commit: 1979
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
-    mergedPR: 2529
-    openPR: 1384
-    closedIssue: 728
-    openIssue: 351
-    commit: 3252
+    mergedPR: 2547
+    openPR: 1405
+    closedIssue: 724
+    openIssue: 356
+    commit: 3278
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 4595
-    openPR: 1945
-    closedIssue: 1399
-    openIssue: 523
-    commit: 5906
+    mergedPR: 4602
+    openPR: 1963
+    closedIssue: 1394
+    openIssue: 528
+    commit: 5932
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 9995
-    openPR: 2439
-    closedIssue: 3260
+    mergedPR: 10010
+    openPR: 2456
+    closedIssue: 3264
     openIssue: 792
-    commit: 10740
+    commit: 10741
 total:
-  release: 3921
-  mergedPR: 29434
-  openPR: 2640
-  closedIssue: 24568
+  release: 3923
+  mergedPR: 29452
+  openPR: 2657
+  closedIssue: 24574
   openIssue: 1119
-  commit: 36513
+  commit: 36531
 ---
 path: /home/runner/.x-repo/github.com/vercel/next.js
-collectedAt: 2026-10-29T05:50:49Z
+collectedAt: 2026-10-30T05:41:24Z
 loc:
   TypeScript:
-    code: 590324
-    comments: 65009
-    blanks: 71337
-    files: 5805
+    code: 590912
+    comments: 65084
+    blanks: 71401
+    files: 5817
   Rust:
-    code: 281594
-    comments: 14743
-    blanks: 31078
+    code: 281687
+    comments: 14745
+    blanks: 31074
     files: 1080
   JavaScript:
-    code: 189189
-    comments: 16735
-    blanks: 18581
-    files: 11373
+    code: 189136
+    comments: 16769
+    blanks: 18597
+    files: 11384
   Tsx:
-    code: 177109
-    comments: 9774
-    blanks: 18309
-    files: 8013
+    code: 177239
+    comments: 9776
+    blanks: 18322
+    files: 8023
   Json:
-    code: 119412
+    code: 119570
     comments: 0
     blanks: 22
-    files: 1490
+    files: 1492
   Yaml:
     code: 60611
     comments: 47
@@ -236,7 +236,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 40649
+    comments: 40650
     blanks: 11003
     files: 582
   Text:
@@ -245,10 +245,10 @@ loc:
     blanks: 256
     files: 282
 total:
-  code: 1463166
-  comments: 171367
-  blanks: 166762
-  files: 30298
+  code: 1464082
+  comments: 171487
+  blanks: 166851
+  files: 30333
 ---
 date: "2026-10-26"
 repo:
@@ -506,4 +506,4 @@ checks:
     details:
       - 'Info: RustCargoFuzzer integration found: turbopack/crates/turbo-tasks-backend/fuzz/fuzz_targets/graph.rs:4'
 ---
-{"id":421880551,"author":{"login":"eps1lon","id":12292047,"node_id":"MDQ6VXNlcjEyMjkyMDQ3","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBC3Cis4ZJWLn","tag_name":"v16.4.3","target_commitish":"canary","name":"v16.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T12:43:23Z","updated_at":"2026-10-28T11:14:51Z","published_at":"2026-10-23T13:32:31Z","assets":[],"body":"> [!NOTE]\r\n> This release is backporting bug fixes. It does **not** include all pending features/changes on canary.\r\n\r\n### Core Changes\r\n\r\n- [lts-active] Fix extensionless Google font URLs in both bundlers (#100277)\r\n- [lts-active] Don't load the app-page runtime in proxy.ts (#100423)\r\n- [lts-active] Revert \"Turbopack: loader change invalidation (#95732)\" (#100438)\r\n- [lts-active][cd] Gate release bot credentials behind GitHub environments (#100123)\r\n- [lts-active] test: Pin react-virtualized (#100545)\r\n- [lts-active][cd] Move release un-draft to a follow-up job in bot-autonomous (#100572)\r\n- [lts-active] Keep OpenTelemetry request traces together (#100349, #100294, #100324, #100350, #100552, #100583) (#100542)\r\n- [lts-active] Avoid loading standalone React in server bootstrap (#100610)\r\n\r\n### Credits\r\n\r\nHuge thanks to @mischnic, @lukesandberg, @acdlite, @eps1lon, and @sokra for helping!\r\n","reactions":{"total_count":8,"+1":4,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":1,"rocket":3,"eyes":0},"mentions_count":5}
+{"id":421880551,"author":{"login":"eps1lon","id":12292047,"node_id":"MDQ6VXNlcjEyMjkyMDQ3","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBC3Cis4ZJWLn","tag_name":"v16.4.3","target_commitish":"canary","name":"v16.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T12:43:23Z","updated_at":"2026-10-28T11:14:51Z","published_at":"2026-10-23T13:32:31Z","assets":[],"body":"> [!NOTE]\r\n> This release is backporting bug fixes. It does **not** include all pending features/changes on canary.\r\n\r\n### Core Changes\r\n\r\n- [lts-active] Fix extensionless Google font URLs in both bundlers (#100277)\r\n- [lts-active] Don't load the app-page runtime in proxy.ts (#100423)\r\n- [lts-active] Revert \"Turbopack: loader change invalidation (#95732)\" (#100438)\r\n- [lts-active][cd] Gate release bot credentials behind GitHub environments (#100123)\r\n- [lts-active] test: Pin react-virtualized (#100545)\r\n- [lts-active][cd] Move release un-draft to a follow-up job in bot-autonomous (#100572)\r\n- [lts-active] Keep OpenTelemetry request traces together (#100349, #100294, #100324, #100350, #100552, #100583) (#100542)\r\n- [lts-active] Avoid loading standalone React in server bootstrap (#100610)\r\n\r\n### Credits\r\n\r\nHuge thanks to @mischnic, @lukesandberg, @acdlite, @eps1lon, and @sokra for helping!\r\n","reactions":{"total_count":10,"+1":4,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":2,"rocket":4,"eyes":0},"mentions_count":5}
