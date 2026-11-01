@@ -14,7 +14,7 @@ x install next.js
 
 ## Code insight
 
-Total: **1,466,982** lines of code across **27870** files in the top 5 languages.
+Total: **1,466,993** lines of code across **27870** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v16.5.0-canary.34` (2026-10-23)
+- **Latest**: `v16.5.0-canary.36` (2026-10-23)
 - **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 143,229 · **Forks**: 34,171 · **Open issues**: 25,698 · **Contributors**: 3,919
+- **Stars**: 143,459 · **Forks**: 33,585 · **Open issues**: 25,705 · **Contributors**: 3,919
 
 ## Totals (cumulative)
 
-- **Releases**: 3925 · **Merged PRs**: 29483 · **Open PRs**: 2657 · **Closed issues**: 24576 · **Open issues**: 1122 · **Commits**: 36560
+- **Releases**: 3927 · **Merged PRs**: 29485 · **Open PRs**: 2665 · **Closed issues**: 24586 · **Open issues**: 1119 · **Commits**: 36563
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 48 | 470 | 384 | 84 | 115 | 778 |
-| last60d | 2026-09-01 | 95 | 940 | 675 | 199 | 198 | 1397 |
-| 90d | 2026-08-02 | 100 | 1449 | 1006 | 410 | 283 | 2025 |
-| last180d | 2026-05-04 | 100 | 2562 | 1404 | 725 | 358 | 3324 |
-| 360d | 2025-11-05 | 100 | 4611 | 1962 | 1389 | 530 | 5978 |
-| last720d | 2024-11-10 | 100 | 10039 | 2456 | 3259 | 795 | 10765 |
+| 30d | 2026-10-02 | 49 | 454 | 388 | 83 | 110 | 586 |
+| last60d | 2026-09-02 | 96 | 927 | 679 | 202 | 197 | 1341 |
+| 90d | 2026-08-03 | 100 | 1423 | 1008 | 397 | 279 | 1888 |
+| last180d | 2026-05-05 | 100 | 2548 | 1409 | 726 | 359 | 3228 |
+| 360d | 2025-11-06 | 100 | 4601 | 1968 | 1388 | 531 | 5913 |
+| last720d | 2024-11-11 | 100 | 10026 | 2464 | 3256 | 794 | 10766 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:34:28Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:02:45Z._
