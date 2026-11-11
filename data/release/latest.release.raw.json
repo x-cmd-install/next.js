@@ -43,8 +43,8 @@
   "body": "> [!NOTE]\r\n> This release is backporting bug fixes. It does **not** include all pending features/changes on canary.\r\n\r\n### Core Changes\r\n\r\n- [lts-active] Pin Tailwind to 4.3.3 in create-next-app and tests (#101061, #101176) (#101307)\r\n- [lts-active] Automatically compress route handler responses if not already compressed (#101280)\r\n- [lts-active] Turbopack GC fixes for dev (#100279, #100370) (#101308)\r\n\r\n### Credits\r\n\r\nHuge thanks to @lukesandberg and @eps1lon for helping!\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/vercel/next.js/releases/436650239/reactions",
-    "total_count": 6,
-    "+1": 3,
+    "total_count": 7,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
