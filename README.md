@@ -14,15 +14,15 @@ x install next.js
 
 ## Code insight
 
-Total: **1,546,758** lines of code across **28505** files in the top 5 languages.
+Total: **1,546,618** lines of code across **28530** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 630,991 | 70,141 | 74,969 | 6162 |
-| Rust | 317,331 | 16,323 | 33,950 | 1140 |
-| JavaScript | 190,438 | 17,331 | 18,489 | 11325 |
-| Tsx | 182,161 | 10,067 | 18,781 | 8382 |
-| Json | 119,212 | 0 | 22 | 1496 |
+| TypeScript | 631,646 | 70,211 | 75,050 | 6166 |
+| Rust | 318,060 | 16,383 | 33,999 | 1141 |
+| JavaScript | 189,884 | 17,378 | 18,421 | 11373 |
+| Tsx | 181,811 | 10,072 | 18,745 | 8374 |
+| Json | 118,813 | 0 | 22 | 1476 |
 
 ## OpenSSF Scorecard
 
@@ -30,8 +30,8 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
 
 ## Source
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v16.5.0-canary.62` (2026-11-09)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 143,623 · **Forks**: 32,723 · **Open issues**: 25,811 · **Contributors**: 3,934
+- **Stars**: 143,686 · **Forks**: 32,698 · **Open issues**: 25,817 · **Contributors**: 3,935
 
 ## Totals (cumulative)
 
-- **Releases**: 3957 · **Merged PRs**: 29917 · **Open PRs**: 2950 · **Closed issues**: 24653 · **Open issues**: 1158 · **Commits**: 37010
+- **Releases**: 3957 · **Merged PRs**: 29939 · **Open PRs**: 2968 · **Closed issues**: 24659 · **Open issues**: 1158 · **Commits**: 37033
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 39 | 448 | 561 | 65 | 85 | 771 |
-| last60d | 2026-09-25 | 92 | 984 | 838 | 175 | 200 | 1568 |
-| 90d | 2026-08-26 | 100 | 1412 | 1113 | 284 | 267 | 2155 |
-| last180d | 2026-05-28 | 100 | 2733 | 1662 | 731 | 393 | 3692 |
-| 360d | 2025-11-29 | 100 | 4836 | 2227 | 1346 | 546 | 6307 |
-| last720d | 2024-12-04 | 100 | 10091 | 2732 | 3187 | 819 | 10843 |
+| 30d | 2026-10-26 | 39 | 454 | 569 | 61 | 84 | 810 |
+| last60d | 2026-09-26 | 89 | 1000 | 852 | 175 | 198 | 1607 |
+| 90d | 2026-08-27 | 100 | 1417 | 1123 | 285 | 266 | 2194 |
+| last180d | 2026-05-29 | 100 | 2740 | 1673 | 730 | 394 | 3731 |
+| 360d | 2025-11-30 | 100 | 4855 | 2245 | 1345 | 545 | 6346 |
+| last720d | 2024-12-05 | 100 | 10094 | 2750 | 3189 | 819 | 10848 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for next.js lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:51:58Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:29:44Z._
